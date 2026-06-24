@@ -13,7 +13,7 @@ def initialization():
         sys.exit()
     return start, search
 
-# D:\Python\Levi9\Week 1\Temperature Logger# D:\Python\Levi9\Week 1\Temperature Logger
+# D:\Python\Levi9\Week 1\Temperature Logger
 
 start_dir, search_word = initialization()
 
